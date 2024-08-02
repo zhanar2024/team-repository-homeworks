@@ -5,3 +5,5 @@ function tellFortune(numOfChildren, partnerName, geoLoc, jobTitle) {
 }
 
 tellFortune(2, "Aibek", "Boston, MA", "Data Analyst");
+tellFortune(4, "Zarina", "Brooklyn, NY", "medical assistant");
+tellFortune(1, "Ibrahim", "Syracuse, NY", "Math teacher");
